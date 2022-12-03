@@ -1,0 +1,15 @@
+body{
+    background-color: orange;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    align-items: center;
+
+}
+
+#root{
+    border: 2px solid gray;
+    padding: 40px;
+    background-color: slateblue;
+}
